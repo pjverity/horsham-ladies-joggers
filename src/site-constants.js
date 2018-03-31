@@ -5,7 +5,7 @@ const INDEX_META_DESCRIPTION = 'Home of Ladies Run Club in Horsham, Surrey';
 const FACEBOOK_URL = '/horshamladiesjoggers';
 const TWITTER_URL = '/@hladiesjoggers';
 const SITE_EMAIL_ADDRESS = 'admin@horshamladiesjoggers.co.uk';
-const ENQUIRIES_API_URL = 'http://api.horshamladiesjoggers.co.uk/enquiries/v2/club-enquiry/emails/';
+const ENQUIRIES_API_URL = 'http://www.horshamladiesjoggers.co.uk/enquiries/v2/club-enquiry/emails/';
 
 module.exports = {
 	INDEX_TITLE,
